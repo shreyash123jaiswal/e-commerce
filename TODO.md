@@ -1,0 +1,1 @@
+- [x] Edit src/components/Header.js to update navbar color to black, add "Fashion Club" header in the middle, and adjust cart icon color
