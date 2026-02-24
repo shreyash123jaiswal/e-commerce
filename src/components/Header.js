@@ -20,7 +20,11 @@ const Header = () => {
       <div className='container mx-auto flex items-center h-full justify-between'>
         <Link to={'/'}>
           <div>
-            <img className='w-[40px] md:w-[100px]' src={Logo} />
+            <img 
+  className='w-[40px] md:w-[100px]' 
+  src={Logo} 
+  alt="Company Logo" 
+/>
           </div>
         </Link>
         <h1 className="text-white text-5xl font-extrabold absolute left-1/2 transform -translate-x-1/2">
